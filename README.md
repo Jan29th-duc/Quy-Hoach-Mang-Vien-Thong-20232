@@ -1,6 +1,6 @@
 # Tổ chức quy hoạch mạng viễn thông
 
-Học kì 20182
+Học kì 20232
 
 Đại học Bách khoa Hà Nội
 
